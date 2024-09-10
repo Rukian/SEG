@@ -4,8 +4,6 @@ published: 2024-07-01
 draft: false
 ---
 
-![Join Us](file:///Users/rnur/Downloads/fuwari-main/src/assets/images/demo-avatar.png)
-
 # Join the Movement: Why You Should Join the SEG Forum Discord and Be Part of Something Bigger
 
 Are you passionate about entrepreneurship, growth, and innovation within the Somali community? Do you want to be part of a thriving network that’s paving the way for Somali entrepreneurs to connect, collaborate, and drive economic change? If the answer is yes, then joining the SEG Forum Discord is your next step!
@@ -32,6 +30,6 @@ Be the first to know about upcoming events, workshops, and networking opportunit
 SEG Forum is more than just a platform; it’s a movement. And as an early member of our Discord community, you’ll have the unique opportunity to influence how we grow and evolve. Your feedback and participation will help shape the resources and features we offer in the future.
 
 # How to Join the Discord?
-It’s simple! Just click the link to our Discord server, create an account if you don’t already have one, and dive right in. You’ll find various channels dedicated to different topics like startup advice, marketing, finance, and general networking. Don’t be shy—introduce yourself, tell us what you’re working on, and start connecting!
+It’s simple! Just click the link to our [Discord](https://Discord.com) server, create an account if you don’t already have one, and dive right in. You’ll find various channels dedicated to different topics like startup advice, marketing, finance, and general networking. Don’t be shy—introduce yourself, tell us what you’re working on, and start connecting! 
 
-**Join us today and be a part of the movement to empower Somali entrepreneurs and build a stronger, more connected community.**
+## Join us today and be a part of the movement to empower Somali entrepreneurs and build a stronger, more connected community.
